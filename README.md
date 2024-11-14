@@ -84,8 +84,17 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=stom-breaker-07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=stom-breaker-07&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stom-breaker-07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<h2 align="left">🖥️ LeetCode Stats:</h2>
+
+###
+<div align="left">
+  <img src="https://leetcode.card.workers.dev/user8688F?&locale=en&mode=daily&theme=auto&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+
+
