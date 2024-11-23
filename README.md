@@ -1,24 +1,22 @@
 <h2 align="center">Hey 👋 I'm Chinmay L</h2>
 
-###
-
 <p align="center">Computer Science And Engineering student from KIT</p>
 
-###
+
 
 <h2 align="left">About me 👨‍💻</h2>
 
-###
+
 
 <br clear="both">
 
-<p align="left">Hi, I'm Chinmay L., a tech enthusiast and aspiring full-stack developer with a passion for solving real-world problems through code.<br><br>⚡I'm currently working on React <br><br>🔭  currently exploring on MERN-Stack<br><br>💡 I love building full-stack projects and solving challenging problems on LeetCode.<br><br>🎯 My goal is to continuously learn, grow, and contribute to impactful tech solutions.</p>
+<p align="left">Hi, I'm Chinmay L., a tech enthusiast and aspiring full-stack developer with a passion for solving real-world problems through code.<br><br>⚡I'm currently working on React Native <br><br>🔭  currently exploring on MERN-Stack<br><br>💡 I love building full-stack projects and solving challenging problems on DSA.<br><br>🎯 My goal is to continuously learn, grow, and contribute to impactful tech solutions.</p>
 
-###
+
 
 <h2 align="left">🌐 Connect with me:</h2>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chinmay-l-39416125b/" target="_blank">
@@ -51,11 +49,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
+
 
 <h2 align="left">🛠️ Tech Stack:</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -77,18 +75,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
+
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-###
+
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=stom-breaker-07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stom-breaker-07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <h2 align="left">🖥️ LeetCode Stats:</h2>
 
