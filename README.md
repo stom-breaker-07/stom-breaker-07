@@ -92,7 +92,7 @@
 
 ###
 <div align="left">
-  <img src="https://leetcode.card.workers.dev/user8688F?&locale=en&mode=daily&theme=auto&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://leetcard.jacoblin.cool/user8688F?ext=heatmap" >
   
 
 
