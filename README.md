@@ -2,7 +2,7 @@
 
 <p align="center">Computer Science And Engineering student from KIT</p>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=stom-breaker-07&label=Profile%20views&color=0e75b6&style=flat" alt="stom-breaker-07" /> </p>
 
 <h2 align="left">About me 👨‍💻</h2>
 
