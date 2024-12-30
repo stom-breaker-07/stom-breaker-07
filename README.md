@@ -25,9 +25,9 @@
   <a href="mailto:chinmay.l10m8@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/chinmay_l10m8" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="30" alt="hackerrank logo"  />
-  </a>
+  <a href="https://leetcode.com/u/user8688F/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="38" height="30" alt="leetcode logo" />
+</a>
   <a href="https://x.com/Chinmay_Shetty7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="twitter logo"  />
   </a>
