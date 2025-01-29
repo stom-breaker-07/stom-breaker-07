@@ -88,7 +88,7 @@
 
 
 
-<h2 align="left">🖥️ LeetCode Stats:</h2>
+<h2 align="left">🖥️ LeetCode Stats </h2>
 
 ###
 <div align="left">
