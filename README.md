@@ -77,7 +77,7 @@
 
 
 
-<h2 align="left">📊 GitHub Stats... </h2>
+<h2 align="left">📊 GitHub Stats : </h2>
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=stom-breaker-07&theme=dark" alt="GitHub Streak" />
 </div>
