@@ -7,7 +7,7 @@
 </div>  
   
 ## About me  
-<table style="border: none ;"><tr><td valign="top" width="70%">
+<table style="border: none ;"><tr><td valign="top" width="65%">
 <div>
     <ul style="list-style: none; padding: 0; margin: 0;">
       <li>🔭 Currently exploring MERN-Stack & App-Development</li>
@@ -17,9 +17,9 @@
       <li>🤝 I’m looking for help with Firebase</li>
     </ul>
   </div>
-</td><td valign="top" width="30%">
+</td><td valign="top" width="40%">
  <div >
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated GIF" style="width: 300px; height: auto; border-radius: 10px;" />
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated GIF" style="width: 350px; height: auto; border-radius: 10px;" />
 </div>
 </td></tr></table>  
 <br/>  
