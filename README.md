@@ -1,6 +1,4 @@
-<h2 align="center">Hey 👋 I'm Chinmay L</h2>
-<p align="center">Computer Science And Engineering student from KIT</p>
-<br/>  
+<h2 align="center">Hey 👋 I'm Chinmay L</h2><p align="center">Computer Science And Engineering student from Karnataka</p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=stom-breaker-07&&style=flat-square" align="center" />
@@ -24,14 +22,27 @@
 </td></tr></table>  
 <br/>  
 
-## My Stats  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=stom-breaker-07&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stom-breaker-07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-   <img src="https://leetcard.jacoblin.cool/user8688F?ext=heatmap" >
+## Connect with Me
+<div align="center"> 
+<a href="https://github.com/stom-breaker-07" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/chinmay_shetty7" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://leetcode.com/u/user8688F" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/chinmayrangnathl" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/chinmay_shetty_07" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/chinmayl" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 </div>
-
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -95,33 +106,12 @@
   </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React Native" style="margin-bottom: 5px;" />
-  </a>
-  
-</div>   
+  </a>  
+</div> 
 
-## Connect with Me
-<div align="center"> 
-<a href="https://github.com/stom-breaker-07" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/chinmay_shetty7" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://leetcode.com/u/user8688F" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/chinmayrangnathl" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/chinmay_shetty_07" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/chinmayl" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
-
-<br/>  
-
-<br/>  
-  
+## My Stats  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=stom-breaker-07&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stom-breaker-07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+   <img src="https://leetcard.jacoblin.cool/user8688F?ext=heatmap" >
+</div>  
