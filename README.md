@@ -112,6 +112,6 @@
 ## My Stats  
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=stom-breaker-07&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stom-breaker-07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stom-breaker-07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
    <img src="https://leetcard.jacoblin.cool/user8688F?ext=heatmap" >
 </div>  
