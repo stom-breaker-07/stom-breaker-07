@@ -91,6 +91,9 @@
   <a href="https://www.tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-bottom: 5px;" />
   </a>
+  <a href="https://supabase.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" style="margin-bottom: 5px;" />
+ </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin-bottom: 5px;" />
   </a>
