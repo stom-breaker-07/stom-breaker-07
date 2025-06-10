@@ -8,11 +8,11 @@
 <table style="border: none ;"><tr><td valign="top" width="65%">
 <div>
     <ul style="list-style: none; padding: 0; margin: 0;">
-      <li>🔭 Currently exploring MERN-Stack & App-Development</li>
-      <li>🌱 I’m currently learning Node and Express.js</li>
+      <li>🔭 Currently exploring MERN-Stack , Data Analytics and Machine Learning </li>
+      <li>🌱 I’m currently learning Node and Express.js,ML</li>
       <li>❓ Ask me about anything related to the MERN stack and related technologies</li>
       <li>⚡ Fun fact: I keep night shift switched on at all times</li>
-      <li>🤝 I’m looking for help with Firebase</li>
+      <li>🤝 I’m looking for help with Hadoop,Apache hive</li>
     </ul>
   </div>
 </td><td valign="top" width="40%">
