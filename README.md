@@ -110,6 +110,9 @@
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React Native" style="margin-bottom: 5px;" />
   </a>  
+ <a href="https://www.tableau.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tableau-%23FF6F00.svg?&style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" style="margin-bottom: 5px;" />
+</a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="margin-bottom: 5px;" />
  </a>
