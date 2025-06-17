@@ -67,6 +67,9 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-bottom: 5px;" />
   </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="margin-bottom: 5px;" />
+</a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-bottom: 5px;" />
   </a>
