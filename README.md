@@ -5,22 +5,16 @@
 </div>  
   
 ## About me  
-<table style="border: none ;"><tr><td valign="top" width="65%">
-<div>
-    <ul style="list-style: none; padding: 0; margin: 0;">
-      <li>🔭 Currently exploring MERN-Stack , Data Analytics and Machine Learning </li>
-      <li>🌱 I’m currently learning Node and Express.js,ML</li>
-      <li>❓ Ask me about anything related to the MERN stack and related technologies</li>
-      <li>⚡ Fun fact: I keep night shift switched on at all times</li>
-      <li>🤝 I’m looking for help with Hadoop,Apache hive</li>
-    </ul>
-  </div>
-</td><td valign="top" width="40%">
- <div >
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated GIF" style="width: 350px; height: auto; border-radius: 10px;" />
+<div align="center">
+  <img align="right" alt="coding" width="320" height="175" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+  <p align="left">
+    - 🔭 Currently exploring MERN-Stack , Data Analytics and Machine Learning <br><br>
+    - 💻 I’m passionate about <strong>Data Structures and Algorithms (DSA)</strong><br><br>
+    - 👨‍💻 All of my projects are available at <a href="https://github.com/stom-breaker-07" target="_blank"><strong>GitHub</strong></a><br><br>
+    - 📫 How to reach me: <a href="mailto:chinmay.l10m8@gmail.com"><strong>chinmay.l10m8@gmail.com</strong></a><br><br>
+    - ⚡ Fun fact: <strong> I keep night shift switched on at all times</strong>
+  </p>
 </div>
-</td></tr></table>  
-<br/>  
 
 ## Connect with Me..
 <div align="center"> 
