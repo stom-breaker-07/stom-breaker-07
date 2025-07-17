@@ -70,6 +70,9 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-bottom: 5px;" />
   </a>
+  <a href="https://riverbankcomputing.com/software/pyqt/intro" target="_blank">
+  <img src="https://img.shields.io/badge/PyQt5-%2331A8FF.svg?&style=for-the-badge&logo=python&logoColor=white" alt="PyQt5" style="margin-bottom: 5px;" />
+  </a>
   <a href="https://www.apachefriends.org/" target="_blank">
     <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" style="margin-bottom: 5px;" />
   </a>
@@ -108,11 +111,28 @@
     <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React Native" style="margin-bottom: 5px;" />
   </a>  
  <a href="https://www.tableau.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tableau-%23FF6F00.svg?&style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Tableau-%230085CA.svg?&style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" style="margin-bottom: 5px;" />
 </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="margin-bottom: 5px;" />
- </a>
+
+  <a href="https://www.notion.so/" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="margin-bottom: 5px;" />
+</a>
+<a href="https://napkin.one/" target="_blank">
+  <img src="https://img.shields.io/badge/Napkin_AI-🧠-%237758C9.svg?&style=for-the-badge&logoColor=white" alt="Napkin AI" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://zapier.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Zapier-%23FF4A00.svg?&style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.lovable.so/" target="_blank">
+  <img src="https://img.shields.io/badge/Lovable-💖-%23FF5CA2.svg?&style=for-the-badge&logoColor=white" alt="Lovable" style="margin-bottom: 5px;" />
+</a>
+
+
+ <a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin-bottom: 5px;" />
+</a>
+
  <a href="https://cursor.so/" target="_blank">
     <img src="https://img.shields.io/badge/Cursor%20AI-%23000000.svg?&style=for-the-badge&logo=ai&logoColor=white" alt="Cursor AI" style="margin-bottom: 5px;" />
 </a>
