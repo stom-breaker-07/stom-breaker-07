@@ -38,7 +38,7 @@
 </a>  
 </div>
 
-## Languages and Tools  
+## Languages and Tools.
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React" style="margin-bottom: 5px;" />
