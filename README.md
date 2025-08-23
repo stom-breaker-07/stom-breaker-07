@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Chinmay L </h1><p align="center">Computer Science And Engineering student from Karnataka</p>
+<h1 align="center">Hey 👋 I'm Chinmay L</h1><p align="center">Computer Science And Engineering student from Karnataka</p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=stom-breaker-07&&style=flat-square" align="center" />
