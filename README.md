@@ -6,7 +6,7 @@
   
 ## About me  
 <div align="center">
-  <img align="right" alt="coding" width="320" height="175" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+  <img align="right" alt="coding" width="320" height="175" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   <p align="left">
     - 🔭 Currently exploring MERN-Stack , Data Analytics and Machine Learning <br><br>
     - 💻 I’m passionate about <strong>Data Structures and Algorithms (DSA)</strong><br><br>
