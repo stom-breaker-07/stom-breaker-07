@@ -140,8 +140,7 @@
 
 ## My Stats  
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=stom-breaker-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=stom-breaker-07&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stom-breaker-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=stom-breaker-07&theme=dark&include_all_commits=true&count_private=true&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stom-breaker-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
    <img src="https://leetcard.jacoblin.cool/Strom-Breaker?ext=heatmap" >
 </div>  
