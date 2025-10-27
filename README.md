@@ -38,7 +38,7 @@
 </a>  
 </div>
 
-## Languages and Tools
+## Languages and Tools 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React" style="margin-bottom: 5px;" />
@@ -144,3 +144,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stom-breaker-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
    <img src="https://leetcard.jacoblin.cool/Strom-Breaker?ext=heatmap" >
 </div>  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hacktoberfest%20Contributor-2024-orange?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-%23FF69B4?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+</div>
