@@ -43,30 +43,33 @@
 <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin-bottom: 5px;" />
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-bottom: 5px;" />
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-bottom: 5px;" />
   </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin-bottom: 5px;" />
+</a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-bottom: 5px;" />
   </a>
+   <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-bottom: 5px;" />
+  </a>
   <a href="https://www.sqlite.org/" target="_blank">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="margin-bottom: 5px;" />
 </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-bottom: 5px;" />
   </a>
@@ -82,24 +85,12 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-bottom: 5px;" />
-  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-bottom: 5px;" />
   </a>
   <a href="https://supabase.com/" target="_blank">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" style="margin-bottom: 5px;" />
  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="NPM" style="margin-bottom: 5px;" />
   </a>
@@ -109,18 +100,28 @@
   </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React Native" style="margin-bottom: 5px;" />
-  </a>  
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-bottom: 5px;" />
+  </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-bottom: 5px;" />
+  </a>
+    <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-bottom: 5px;" />
+  </a>
  <a href="https://www.tableau.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tableau-%230085CA.svg?&style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" style="margin-bottom: 5px;" />
 </a>
-
   <a href="https://www.notion.so/" target="_blank">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="margin-bottom: 5px;" />
 </a>
 <a href="https://napkin.one/" target="_blank">
   <img src="https://img.shields.io/badge/Napkin_AI-🧠-%237758C9.svg?&style=for-the-badge&logoColor=white" alt="Napkin AI" style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://zapier.com/" target="_blank">
   <img src="https://img.shields.io/badge/Zapier-%23FF4A00.svg?&style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" style="margin-bottom: 5px;" />
 </a>
