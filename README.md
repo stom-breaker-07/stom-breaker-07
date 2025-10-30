@@ -145,8 +145,17 @@
    <img src="https://leetcard.jacoblin.cool/Strom-Breaker?ext=heatmap" >
 </div>  
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hacktoberfest%20Contributor-2024-orange?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-%23FF69B4?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+## Badges 
+<div align="center"  >
+   <img src="https://assets.leetcode.com/static_assets/others/200.gif" width=100px , height=100px  />
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width=100px , height=100px />
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width=100px , height=100px  />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width=100px , height=100px />
+  <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width=100px , height=100px />
+   <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width=100px , height=100px />
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width=100px , height=100px />
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width=100px , height=100px  />
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp"width=100px , height=100px />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width=100px , height=100px  />
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width=100px , height=100px />
 </div>
