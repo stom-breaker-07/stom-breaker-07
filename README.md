@@ -148,6 +148,7 @@
 
 ## Badges 
 <div align="center"  >
+  <img src="https://assets.leetcode.com/static_assets/others/2025.gif" width=100px , height=100px  />
    <img src="https://assets.leetcode.com/static_assets/others/200.gif" width=100px , height=100px  />
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width=100px , height=100px />
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width=100px , height=100px  />
