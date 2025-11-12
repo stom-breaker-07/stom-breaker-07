@@ -148,6 +148,7 @@
 
 ## Badges 
 <div align="center"  >
+  <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width=100px , height=100px  />
   <img src="https://assets.leetcode.com/static_assets/others/2025.gif" width=100px , height=100px  />
    <img src="https://assets.leetcode.com/static_assets/others/200.gif" width=100px , height=100px  />
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width=100px , height=100px />
@@ -155,6 +156,7 @@
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width=100px , height=100px />
   <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width=100px , height=100px />
    <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width=100px , height=100px />
+   <br/>
   <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width=100px , height=100px />
   <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width=100px , height=100px  />
   <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp"width=100px , height=100px />
