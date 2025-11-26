@@ -12,7 +12,7 @@
     - 💻 I’m passionate about <strong>Data Structures and Algorithms (DSA)</strong><br><br>
     - 👨‍💻 All of my projects are available at <a href="https://github.com/stom-breaker-07" target="_blank"><strong>GitHub</strong></a><br><br>
     - 📫 How to reach me: <a href="mailto:chinmay.l10m8@gmail.com"><strong>chinmay.l10m8@gmail.com</strong></a><br><br>
-    - ⚡ Fun fact: <strong> I keep night shift switched on at all times</strong>
+    - ⚡ Fun fact: <strong> I'm bad in naming the Commits </strong>
   </p>
 </div>
 
