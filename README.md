@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Chinmay L</h1><p align="center">Computer Science And Engineering student from Karnataka</p>
+<h1 align="center">Hey 👋 I'm Chinmay L</h1><p align="center">Computer Science And Engineering student from India</p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=stom-breaker-07&&style=flat-square" align="center" />
@@ -8,11 +8,11 @@
 <div align="center">
   <img align="right" alt="coding" width="320" height="175" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   <p align="left">
-    - 🔭 Currently exploring MERN-Stack , Data Analytics and Machine Learning <br><br>
+    - 🔭 Currently exploring Data Science and Machine Learning <br><br>
     - 💻 I’m passionate about <strong>Data Structures and Algorithms (DSA)</strong><br><br>
     - 👨‍💻 All of my projects are available at <a href="https://github.com/stom-breaker-07" target="_blank"><strong>GitHub</strong></a><br><br>
     - 📫 How to reach me: <a href="mailto:chinmay.l10m8@gmail.com"><strong>chinmay.l10m8@gmail.com</strong></a><br><br>
-    - ⚡ Fun fact: <strong> I'm bad in naming the Commits </strong>
+    - 😂 Fun fact: <strong> I'm bad in naming the Commits </strong>
   </p>
 </div>
 
